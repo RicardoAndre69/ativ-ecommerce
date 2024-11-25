@@ -1,5 +1,6 @@
 # react-ecommerce
 # ativ-ecommerce
+e-commerce de roupas.
 
 integrantes: ricardo e sophia
 
